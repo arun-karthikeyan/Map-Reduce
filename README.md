@@ -1,2 +1,2 @@
 # Map-Reduce
-Map Reduce Learning Code Examples
+Map Reduce Learning - Code Practice
